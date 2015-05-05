@@ -4,6 +4,7 @@
 - Goals
 - Number of design iterations
 - Other projects competing for time
+- Will there be testing? What kind of iteration cycle happens as a result?
 
 ## Research
 
@@ -14,6 +15,9 @@
 - What graphic design elements are similar between the different approaches?
 - What is the interaction model being used to drive the layout decisions?
 
+## Interviews 
+- What biases currently exist that will influence the work?
+
 ### Devices
 
 - How does it work across different breakpoints?
@@ -23,6 +27,14 @@
 
 When there are interactive or motion elements involved in a design, prototypes help to understand how the elements will work together in the final product.
 
-- mocks
+## Testing
+- What needs to be learned?
+- How will learnings be 
 
-- specs
+*After testing:*
+
+What was learned from the tests?
+
+## Mocks
+
+## Specs
