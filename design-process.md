@@ -1,3 +1,10 @@
+## Project Overview
+
+- Deadlines
+- Goals
+- Number of design iterations
+- Other projects competing for time
+
 ## Research
 
 - What are similar examples?
