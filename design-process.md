@@ -6,6 +6,13 @@
 - Other projects competing for time
 - Will there be testing? What kind of iteration cycle happens as a result?
 
+## Brainstorm
+- how is the brainstorm being hosted, and what is the intended outcome?
+- who will be involved?
+- what is their level of expertise?
+- where do ideas come from, and how do they affect the outcome?
+- which ideas should be incorporated into the process?
+
 ## Research
 
 - What are similar examples?
