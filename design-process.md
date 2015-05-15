@@ -42,6 +42,11 @@ When there are interactive or motion elements involved in a design, prototypes h
 
 What was learned from the tests?
 
+## Reviewing Launch Candidate
+- Does the structure match the wireframes?
+- Is the content correct? 
+- Have all breakpoints been checked?
+
 ## Mocks
 
 ## Specs
